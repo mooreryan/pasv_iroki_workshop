@@ -1,0 +1,51 @@
+name	branch_color	bar1_height	bar2_height	bar1_color	bar2_color	bar3_height	bar3_gradient	new_name
+gov_good_L438___seq_1	k_blue	2.04	0.29	#35978F	#35978F	1	Purples	Class I
+gov_good_L438___seq_10	k_blue	1.12	-0.31	#35978F	#BF812D	2	Purples	Class I
+gov_good_L438___seq_2	k_blue	0.07	-1.41	#35978F	#BF812D	3	Purples	Class I
+gov_good_L438___seq_3	k_blue	0.48	-0.31	#35978F	#BF812D	4	Purples	Class I
+gov_good_L438___seq_4	k_blue	1.60	-1.01	#35978F	#BF812D	5	Purples	Class I
+gov_good_L438___seq_5	k_blue	0.16	-0.72	#35978F	#BF812D	6	Purples	Class I
+gov_good_L438___seq_6	k_blue	-0.11	-2.11	#BF812D	#BF812D	7	Purples	Class I
+gov_good_L438___seq_7	k_blue	1.06	-0.72	#35978F	#BF812D	8	Purples	Class I
+gov_good_L438___seq_8	k_blue	1.72	-0.31	#35978F	#BF812D	9	Purples	Class I
+gov_good_L438___seq_9	k_blue	0.53	-2.11	#35978F	#BF812D	10	Purples	Class I
+gov_good_P438___seq_1	k_reddish_orange	-1.02	-0.16	#BF812D	#BF812D	11	Purples	Class II
+gov_good_P438___seq_10	k_reddish_orange	-1.02	1.92	#BF812D	#35978F	12	Purples	Class II
+gov_good_P438___seq_2	k_reddish_orange	-0.80	1.15	#BF812D	#35978F	13	Purples	Class II
+gov_good_P438___seq_3	k_reddish_orange	-1.02	0.46	#BF812D	#35978F	14	Purples	Class II
+gov_good_P438___seq_4	k_reddish_orange	0.42	1.33	#35978F	#35978F	15	Purples	Class II
+gov_good_P438___seq_5	k_reddish_orange	-0.46	0.78	#BF812D	#35978F	16	Purples	Class II
+gov_good_P438___seq_6	k_reddish_orange	-0.01	1.72	#BF812D	#35978F	17	Purples	Class II
+gov_good_P438___seq_7	k_reddish_orange	-1.02	1.53	#BF812D	#35978F	18	Purples	Class II
+gov_good_P438___seq_8	k_reddish_orange	-2.41	-1.41	#BF812D	#BF812D	19	Purples	Class II
+gov_good_P438___seq_9	k_reddish_orange	-1.31	1.39	#BF812D	#35978F	20	Purples	Class II
+seq_00303___ban92911_1___nrde___bacteria_firmicutes_streptococcus_dysgalactiae_subsp_equisimilis_167	#CCCCCC	0	0	#35978F	#35978F	0	Purples	__IROKI_BLANK__
+seq_03338___adu97513_1___nrdam___bacteria_aquificae_thermovibrio_ammonificans_hb_1	#CCCCCC	0	0	#35978F	#35978F	0	Purples	__IROKI_BLANK__
+seq_05000___kxk34305_1___nrdjd___bacteria_chlorobi_chlorobi_bacterium_olb6	#CCCCCC	0	0	#35978F	#35978F	0	Purples	__IROKI_BLANK__
+seq_05084___eaz90739_1___nrdam___bacteria_cyanobacteria_cyanothece_sp_ccy0110	#CCCCCC	0	0	#35978F	#35978F	0	Purples	__IROKI_BLANK__
+seq_05207___aca99346_1___nrdam___bacteria_cyanobacteria_synechococcus_sp_pcc_7002	#CCCCCC	0	0	#35978F	#35978F	0	Purples	__IROKI_BLANK__
+seq_05317___amb92222_1___nrde___bacteria_firmicutes_aerococcus_christensenii	#CCCCCC	0	0	#35978F	#35978F	0	Purples	__IROKI_BLANK__
+seq_06434___krl95352_1___nrde___bacteria_firmicutes_lactobacillus_hammesii_dsm_16381	#CCCCCC	0	0	#35978F	#35978F	0	Purples	__IROKI_BLANK__
+seq_07314___efh37098_1___nrde___bacteria_firmicutes_staphylococcus_aureus_a8796	#CCCCCC	0	0	#35978F	#35978F	0	Purples	__IROKI_BLANK__
+seq_08167___out52680_1___nrdjm___bacteria_planctomycetes_phycisphaera_sp_tmed9	#CCCCCC	0	0	#35978F	#35978F	0	Purples	__IROKI_BLANK__
+seq_13502___ank80179_1___nrdjd___bacteria_proteobacteria_rhizobiales_bacterium_nrl2	#CCCCCC	0	0	#35978F	#35978F	0	Purples	__IROKI_BLANK__
+seq_15216___abz94144_1___nrdjd___bacteria_spirochaetes_leptospira_biflexa_serovar_patoc_strain_patoc_1_ames_	#CCCCCC	0	0	#35978F	#35978F	0	Purples	__IROKI_BLANK__
+seq_15557___eso06591_1___nrdae___eukaryota_annelida_helobdella_robusta	#CCCCCC	0	0	#35978F	#35978F	0	Purples	__IROKI_BLANK__
+seq_15831___esu11102_1___nrdae___eukaryota_ascomycota_fusarium_graminearum_ph_1	#CCCCCC	0	0	#35978F	#35978F	0	Purples	__IROKI_BLANK__
+seq_16427___pav64354_1___nrdae___eukaryota_nematoda_diploscapter_pachys	#CCCCCC	0	0	#35978F	#35978F	0	Purples	__IROKI_BLANK__
+seq_16478___ker30218_1___nrdae___eukaryota_platyhelminthes_opisthorchis_viverrini	#CCCCCC	0	0	#35978F	#35978F	0	Purples	__IROKI_BLANK__
+seq_16511___kqk01220_1___nrdae___eukaryota_streptophyta_brachypodium_distachyon	#CCCCCC	0	0	#35978F	#35978F	0	Purples	__IROKI_BLANK__
+seq_16607___oht06896_1___nrdag___eukaryota_tritrichomonas_foetus	#CCCCCC	0	0	#35978F	#35978F	0	Purples	__IROKI_BLANK__
+seq_17026___agr48571_1___nrdam___viruses_microcystis_phage_mamv_dc	#CCCCCC	0	0	#35978F	#35978F	0	Purples	__IROKI_BLANK__
+seq_17114___ala48153_1___nrdjm___viruses_mycobacterium_phage_phlei	#CCCCCC	0	0	#35978F	#35978F	0	Purples	__IROKI_BLANK__
+seq_17202___age60483_1___nrdag___viruses_pelagibacter_phage_htvc008m	#CCCCCC	0	0	#35978F	#35978F	0	Purples	__IROKI_BLANK__
+seq_17251___arv77098_1___nrdag___viruses_pseudomonas_phage_phabio	#CCCCCC	0	0	#35978F	#35978F	0	Purples	__IROKI_BLANK__
+seq_17317___ahj10534_1___nrdag___viruses_shewanella_phage_spp001	#CCCCCC	0	0	#35978F	#35978F	0	Purples	__IROKI_BLANK__
+seq_17435___aga17885_1___nrdjm___viruses_synechococcus_phage_p60	#CCCCCC	0	0	#35978F	#35978F	0	Purples	__IROKI_BLANK__
+seq_21214___wp_072619604_1___nrdam___bacteria_cyanobacteria_spirulina_major	#CCCCCC	0	0	#35978F	#35978F	0	Purples	__IROKI_BLANK__
+seq_21778___wp_083208788_1___nrdjm___bacteria_firmicutes_brevibacillus_laterosporus	#CCCCCC	0	0	#35978F	#35978F	0	Purples	__IROKI_BLANK__
+seq_22649___wp_084662889_1___nrde___bacteria_firmicutes_paenibacillus_fonticola	#CCCCCC	0	0	#35978F	#35978F	0	Purples	__IROKI_BLANK__
+seq_26006___wp_063987464_1___nrdjd___bacteria_proteobacteria_methylobacterium_populi	#CCCCCC	0	0	#35978F	#35978F	0	Purples	__IROKI_BLANK__
+seq_27599___wp_093255559_1___nrdjd___bacteria_proteobacteria_rubrimonas_cliftonensis	#CCCCCC	0	0	#35978F	#35978F	0	Purples	__IROKI_BLANK__
+seq_29389___yp_009208325_1___nrdjm___viruses_streptomyces_phage_amela	#CCCCCC	0	0	#35978F	#35978F	0	Purples	__IROKI_BLANK__
+seq_na___na___nrdag___bacteria_proteobacteria_e_coli_k12	#CCCCCC	0	0	#35978F	#35978F	0	Purples	__IROKI_BLANK__

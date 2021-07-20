@@ -1,0 +1,10 @@
+export SEQ_DIR="$HOME/projects/pasv_iroki_workshop/sequences"
+export WORK_DIR="$HOME/projects/pasv_iroki_workshop/work"
+
+export RNRDB_SEQS="$SEQ_DIR/rnrdb.faa"
+export VIROME_SEQS="$SEQ_DIR/virome.faa"
+export SEARCH_OUT="$WORK_DIR/search.tsv"
+export MMSEQS_TMPDIR="$WORK_DIR/mmseqs_tmpdir"
+export PUTATIVE_RNRS="$WORK_DIR/putative_rnrs.faa"
+export PASV_REFS="$WORK_DIR/pasv_refs.faa"
+export PASV_OUTDIR="$WORK_DIR/pasv_outdir"

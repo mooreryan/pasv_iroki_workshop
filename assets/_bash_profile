@@ -1,0 +1,29 @@
+# Custom prompt
+
+# https://stackoverflow.com/a/3499237
+_dir_chomp () {
+    local p=${1/#$HOME/\~} b s
+    s=${#p}
+    while [[ $p != "${p//\/}" ]]&&(($s>$2))
+    do
+        p=${p#/}
+        [[ $p =~ \.?. ]]
+        b=$b/${BASH_REMATCH[0]}
+        p=${p#*/}
+        ((s=${#b}+${#p}))
+    done
+    echo ${b/\/~/\~}${b+/}$p
+}
+
+export PS1='\[\e[31m\]$(_dir_chomp "$PWD" 20)$\[\e[m\] '
+
+# Ruby Gems home directory
+export GEM_HOME=$HOME/.gems
+
+# Path stuff
+export PATH="$GEM_HOME/bin:$PATH"
+export PATH="$HOME/opt/mmseqs/bin:$PATH"
+
+source $HOME/projects/pasv_iroki_workshop/assets/_workshop_vars
+
+

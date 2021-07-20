@@ -1,0 +1,9 @@
+name	branch_color	leaf_dot_size	leaf_dot_color	new_name
+nrdae	k_light_blue	0		Class I
+nrdag	k_light_blue	0		Class I
+nrdam	k_light_blue	0		Class I
+nrde	k_light_blue	0		Class I
+nrdjd	k_orange	0		Class II (dim)
+nrdjm	k_red	0		Class II (mono)
+gov_good_P438	#CCCCCC	5	k_reddish_orange	Class II
+gov_good_L438	#CCCCCC	5	k_blue	Class I
